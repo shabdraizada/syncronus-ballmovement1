@@ -1,2 +1,2 @@
-# syncronus-ballmovement1
-null
+# synchronousBallMovement
+Ball moving synchronously
